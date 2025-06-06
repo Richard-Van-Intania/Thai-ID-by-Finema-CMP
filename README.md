@@ -1,3 +1,9 @@
+# Thai.ID by Finema
+
+### co.finema.thaidotidbyfinema
+
+#### re-written in Compose Multiplatform
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
